@@ -10,5 +10,5 @@ The app will consist of 3 main components:
 Technologies used
 - SQL
 - Flask
-- React
+- Astro
 - Typescript
