@@ -1,0 +1,9 @@
+version: "1.0.0"
+services:
+  react:
+    build: ./astro
+    container_name: recipe_app_c
+    ports: 
+      - '3000:3000'
+    stdin_open: true
+    tty: true
