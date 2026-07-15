@@ -1,6 +1,6 @@
 # Welcome to my Recipe App!
 
-This app is for collecting, organizing recipes, and assist with meal planning for busy individuals.
+This app is for collecting, organizing recipes, and assist with meal planning using Gemini.
 
 The app will consist of 3 main components:
 - A central database used to store recipes, image urls, instructions, etc
@@ -12,3 +12,5 @@ Technologies used
 - Flask
 - Astro
 - Typescript
+- Docker
+- Gemini
