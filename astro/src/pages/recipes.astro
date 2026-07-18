@@ -1,0 +1,16 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Card from "../components/Card.astro";
+import Search from "../components/Search.astro";
+---
+
+<Layout title="Recipes">
+  <main>
+    <h1>Review and edit Recipes here!</h1>
+
+    <Search title="Search recipes" inputID="Search" />
+    <ul role="list" class="link-card-grid">
+      <Card title="Recipe1" />
+    </ul>
+  </main>
+</Layout>
